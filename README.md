@@ -6,7 +6,9 @@ NLP projects for Dhivehi Language (Maldives)
 This is a Private Project for now. It is now hosted in Bitbucket. Email me at mohshahud@gmail.com to Collaborate.
 Old Method of web scraping added
 
-- Hud 13 May 18
+Develop a numerical letter recognition sort of software for Dhivehi language.
+
+- Hud 15 May 18
 
 #PyConIndia
 
@@ -16,3 +18,4 @@ Old Method of web scraping added
 ### July 29 : Workshop finalization and first round decision for talks
 ### August 12 - Final round decision for talks
 ### September 1 - Schedule announcement on the website
+
