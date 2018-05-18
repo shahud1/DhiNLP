@@ -8,7 +8,9 @@ Old Method of web scraping added
 
 Develop a numerical letter recognition sort of software for Dhivehi language.
 
-- Hud 15 May 18
+## Project halted for the time being. Will be working on it again on 1 June 2018
+
+- Hud 18 May 18
 
 #PyConIndia
 
